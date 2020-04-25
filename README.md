@@ -1,2 +1,2 @@
 # background-generator
-A site to create gradient backgrounds based on two colors of your choice, with the CSS snippet included to paste into your project
+Create gradient backgrounds based on two colors of your choice. CSS snippet included to paste into your project.
