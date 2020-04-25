@@ -21,7 +21,7 @@ function setGradient() {
   hex2.textContent = color2.value;
 
   copy.textContent = "Copy the line below to use this background gradient: ";
-  css.textContent = body.style.background + ";";
+  //   css.textContent = body.style.background + ";";
 }
 
 color1.addEventListener("input", setGradient);
